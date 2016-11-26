@@ -1,9 +1,4 @@
-/*
- * Author: Travis Hoover
- * Class: CSCI 3240
- * Professor: Dr. Hyrum Carroll
- * Date: May the 4th be with you in 2016
- */
+
 #include "finalProject-mysteryFunction.h"
 #include <stdio.h>
 #include <pthread.h>
